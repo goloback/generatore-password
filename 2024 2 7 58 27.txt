@@ -1,0 +1,1 @@
+2024 2 7 58 27: <bound method Entry.get of <tkinter.Entry object .!canvas.!entry>>
