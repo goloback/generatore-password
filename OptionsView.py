@@ -1,4 +1,5 @@
 from tkinter import *
+# optionsView-элемент объеденяет entry и label
 class optionsView():
 
     def __init__(self, canvas, y, window, type_value, date_information):
